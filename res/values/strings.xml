@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TaskManager6</string>
+    <string name="all_list_en">All List</string>
+    <string name="all_list_jp">全リスト</string>
+    <string name="ignore_list_en">Ignore List</string>
+    <string name="ignore_list_jp">除外リスト</string>
+    <string name="kill_list_en">Kill List</string>
+    <string name="kill_list_jp">終了リスト</string>
+    <string-array name="sp1">
+        <item >red</item>
+        <item >blue</item>
+    </string-array>
+    <string-array name="sp1_jp">
+        <item >全リスト</item>
+        <item >除外リスト</item>
+        <item >終了リスト</item>
+    </string-array>
+    <string-array name="sp1_en">
+        <item >All List</item>
+        <item >Ignore List</item>
+        <item >Kill List</item>
+    </string-array>
+    <string-array name="sp2_jp">
+        <item >CPU使用率</item>
+        <item >メモリ使用量</item>
+        <item >アプリ名</item>
+    </string-array>
+    <string-array name="sp2_en">
+        <item >CPU</item>
+        <item >Memory</item>
+        <item >App name</item>
+    </string-array>
+    <string-array name="sp3">
+        <item >ON</item>
+        <item >OFF</item>
+    </string-array>
+    <string-array name="sp4_jp">
+        <item >最高</item>
+        <item >高</item>
+        <item >中</item>
+        <item >低</item>
+        <item >初期化</item>
+    </string-array>
+    <string-array name="sp4_en">
+        <item >Max level</item>
+        <item >High</item>
+        <item >Middle</item>
+        <item >Low</item>
+        <item >Init</item>
+    </string-array>
+        <string-array name="sp5">
+        <item >日本語</item>
+        <item >English</item>
+    </string-array>
+        <string name="reset_jp">リセット</string>
+        <string name="reset_en">reset</string>
+</resources>
