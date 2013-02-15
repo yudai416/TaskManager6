@@ -97,6 +97,7 @@ public class Option extends Activity implements OnClickListener {
     	return layout;
     }
 
+    /*
     private TextView makeTextView(String text, int size) {
         TextView textView = new TextView(this);
         textView.setText(text);
@@ -104,7 +105,8 @@ public class Option extends Activity implements OnClickListener {
         textView.setTextColor(Color.WHITE);
         return textView;
     }
-
+	*/
+    
     private Spinner makeSpinner(int spinnerId, int arrayId, int first) {
     	Spinner spinner = (Spinner)findViewById(spinnerId);
     	String[] names = getResources().getStringArray(arrayId);
