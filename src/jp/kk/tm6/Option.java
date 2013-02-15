@@ -20,7 +20,7 @@ import android.widget.Toast;
 
 public class Option extends Activity implements OnClickListener {
 	private final static int WC = LinearLayout.LayoutParams.WRAP_CONTENT;
-	private TextView textView0, textView1, textView2, textView3, textView4, textView5;
+	//private TextView textView0, textView1, textView2, textView3, textView4, textView5;
 	private Spinner spinner1, spinner2, spinner3, spinner4, spinner5;
 	private Button button0, button1, button2;
 	private SharedPreferences option;
